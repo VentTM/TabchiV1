@@ -3,7 +3,7 @@ Edited and Improved by Mehrpouya
 
 ## Install
 ```bash
-git clone https://github.com/VentTM/tabchiV1.git && cd tabchiV1 && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
+git clone https://github.com/VentTM/tabchiV1.git && cd tabchiV1 && chmod 777 install.sh && chmod 777 anticrash.sh && ./install.sh && lua creator.lua
 ```
 ## Create a bot!
 ```
@@ -22,7 +22,7 @@ Enter your telegram id in "Full Sudo ID" part
 Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for auto launch mode (put tabchi-id in ID part)
 
 ## Autolaunch
-use `./telegamer.sh ` for Autolaunch
+use `./anticrash.sh ` for Autolaunch
 
 ## Developers
 
