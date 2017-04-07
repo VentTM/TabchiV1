@@ -11,7 +11,7 @@ sudo apt-get install -y tor
 sudo service tor start
 sudo export http_proxy=socks5://127.0.0.1:9150 https_proxy=socks5://127.0.0.1:9150
 chmod 777 telegram-cli-1222
-chmod 777 anticrash.sh
+chmod 777 telegamer.sh
 RED='\033[0;31m'
 NC='\033[0m'
 CYAN='\033[0;36m'
