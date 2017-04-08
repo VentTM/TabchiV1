@@ -1,34 +1,53 @@
-# Tabchi V1.0
-Edited and Improved by Mehrpouya
+# Tabchi (ImChieF)[t.me/ImChieF)
 
-## Install
-```bash
-git clone https://github.com/VentTM/tabchiV1.git && cd tabchiV1 && chmod 777 install.sh && chmod 777 anticrash.sh && ./install.sh && lua creator.lua
+TG-CLI Based Broadcasting Bot.
+
+## راهنمای نصب :
 ```
-## Create a bot!
+git clone https://Github.com/kia-pashang/Tabchi.git
+
+cd Tabchi
+
+chmod +x install.sh
+
+./install.sh
 ```
+## نصب تمام شد
+
+## ران کردن ربات به صورت پیشفرض
+```
+cd Tabchi
+
 lua creator.lua
-Auto Detected Tabchi ID : 0
-Enter Full Sudo ID : 91054649
-Done!
-New Tabchi Created...
-ID : 0
-Full Sudo : 91054649
-Run : ./tabchi-0.sh
+
+بعد ایدی سودو ست کنید مثلا : 281710820
+
+screen ./tabchi-0.sh
+
+شماره ست کنید و حالشو ببرین
 ```
-Enter your telegram id in "Full Sudo ID" part
+## ران کردن بات به صورت دستی
+```
+cd Tabchi
 
-## Run
-Use `./tabchi-ID.sh` to run your bot normaly or use `screen ./tabchi-ID.sh` for auto launch mode (put tabchi-id in ID part)
+lua manual-creator.lua
 
-## Autolaunch
-use `./anticrash.sh ` for Autolaunch
+ایدی تبچی ست کنید مثلا : 5
 
-## Developers
+بعدش ایدی سودو بدین مثلا : 281710820
 
- * [Mehrpouya](https://telegram.me/Mehrpouya)
- * [Aryan](https://telegram.me/AryawN_Si)
- * [MrBlacklife](https://telegram.me/Mrblacklife)
+screen ./tabchi-5.sh
 
-### Powered by [TeleGamer](https://telegram.me/TeleGamerCh)
-### Thanks to [BlackLife™](https://t.me/BlackLifeTM)
+شماره ست کنید و حالشو ببرین
+```
+# استفاده از انتی کرش
+
+وقتی شماره و همه چی رو ست کردین اول دستور اسکرین استفاده کنید وقتی ربات خاموش شد مراحل زیر رو انجام بدین
+
+cd Tabchi
+
+killall bash
+
+./anticrash.sh
+
+عمرا ربات اف بشه :)
