@@ -6,7 +6,7 @@ TG-CLI Based Broadcasting Bot.
 ```
 git clone https://github.com/VentTM/TabchiV1.git
 
-cd Tabchi
+cd TabchiV1
 
 chmod +x install.sh
 
@@ -16,7 +16,7 @@ chmod +x install.sh
 
 ## ران کردن ربات به صورت پیشفرض
 ```
-cd Tabchi
+cd TabchiV1
 
 lua creator.lua
 
@@ -28,7 +28,7 @@ screen ./tabchi-0.sh
 ```
 ## ران کردن بات به صورت دستی
 ```
-cd Tabchi
+cd TabchiV1
 
 lua manual-creator.lua
 
@@ -44,7 +44,7 @@ screen ./tabchi-5.sh
 
 وقتی شماره و همه چی رو ست کردین اول دستور اسکرین استفاده کنید وقتی ربات خاموش شد مراحل زیر رو انجام بدین
 
-cd Tabchi
+cd TabchiV1
 
 killall bash
 
