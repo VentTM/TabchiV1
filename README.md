@@ -30,7 +30,7 @@ screen ./tabchi-0.sh
 ```
 cd TabchiV1
 
-lua manual-creator.lua
+lua manual.lua
 
 ایدی تبچی ست کنید مثلا : 5
 
