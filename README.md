@@ -1,10 +1,10 @@
-# Tabchi (ImChieF)[t.me/ImChieF)
+# Tabchi [ImChieF](t.me/ImChieF)
 
 TG-CLI Based Broadcasting Bot.
 
 ## راهنمای نصب :
 ```
-git clone https://Github.com/kia-pashang/Tabchi.git
+git clone https://github.com/VentTM/TabchiV1.git
 
 cd Tabchi
 
